@@ -1,19 +1,19 @@
-# How to Build Your First Discord Bot with Node.js
+# My First Discord Bot
 
-Michiel Mulders shows you how to install and set up a new Discord bot, which is made easier thanks to the API offered by the Discord.js package.
+A discord bot I made to test out the concepts behind making a chat bot. This was initially cloned from an example created by Michiel Mulders. 
 
-Link to article on SitePoint: [https://www.sitepoint.com/discord-bot-node-js/](https://www.sitepoint.com/discord-bot-node-js/)
+Link to article on SitePoint Where I got the example from: [https://www.sitepoint.com/discord-bot-node-js/](https://www.sitepoint.com/discord-bot-node-js/)
 
 ## Requirements
 
 - [Node.js](http://nodejs.org/)
 - [Discord](https://discordapp.com/) account
 
-## Installation Steps (if applicable)
+## Installation Steps
 
 1. Clone repo
 2. Run `npm install`
-3. Add Discord credentials in a `.env` file
+3. Add Discord credentials in a `.env` file, add words api credentials from a rapid api account
 3. Run `node index.js`
 4. Interact with your Discord bot via your web browser
 
